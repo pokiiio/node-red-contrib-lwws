@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/pokiiio/node-red-contrib-lwws.git"
   },
+  "keywords": [
+    "node-red",
+    "weather",
+    "livedoor",
+    "lwws"
+  ],
   "author": "pokiiio",
   "license": "Apache-2.0",
   "bugs": {
